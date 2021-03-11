@@ -1,0 +1,16 @@
+.icon{width:508px;
+      font-weight:800;
+      text-transform:capitalize;
+      text-align:left;
+      margin-left:50px;
+      text-align:justify;
+      word-spacing:5px;
+      }
+
+.a { text-decoration:underline}
+
+.b{text-decoration:line-through}
+
+.c{text-decoration:overline;
+   font-style:italic;
+   font-style:initial;}

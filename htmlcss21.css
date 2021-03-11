@@ -1,0 +1,66 @@
+h1{color:rgb(247, 1, 1);
+    background:bisque;
+     width:260px;
+     padding:20px;
+     font-size:40px;
+     font-family:arial black}
+     
+.animation{color:red;
+    background:darkkhaki;
+    width:350px;
+    height:150px;
+    padding:20px;
+    font-size:30px;
+    font-family:arial black;
+    display:grid;
+    place-items:center}
+
+
+
+.animation{display:grid;
+    place-items:center} 
+
+.animation{animation-name:bijoy;
+    animation-duration:1s;
+    animation-fill-mode:forwards;
+    animation-iteration-count:3;
+    animation-direction:alternate;}
+
+@keyframes bijoy{
+
+from{margin-left:500px;opacity:0}
+to{margin-left:00px;opacity:1}
+}
+
+
+
+
+
+
+.animation1{color:rgb(86, 221, 81);
+background:rgb(89, 100, 90);
+width:350px;
+height:150px;
+padding:20px;
+font-size:30px;
+font-family:arial black;
+display:grid;
+place-items:center}
+
+
+
+.animation1{display:grid;
+place-items:center} 
+
+.animation1{animation-name:bijoy1;
+animation-duration:1s;
+animation-fill-mode:forwards;
+animation-iteration-count:3;
+animation-direction:alternate;}
+
+@keyframes bijoy1{
+
+from{margin-top:00px;opacity:1}
+to{margin-top:500px;opacity:0.5}
+}
+

@@ -1,0 +1,18 @@
+.mp h1{color:blue;
+       border:3px solid red;
+       width:230px;
+       padding:10px 20px 30px 40px;
+       margin:10px;
+       text-align:center;
+}
+
+.mp h2{color:red;
+       border:3px solid blue;
+       padding:10px;
+       margin:10px 20px 30px 40px;
+       display:inline;
+       text-align: center;}
+
+body{background:url(images2/bg.jpg);
+     background-repeat:no-repeat;
+     background-size:cover}

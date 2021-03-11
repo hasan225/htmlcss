@@ -1,0 +1,29 @@
+body{background:#75c35D;}
+
+.log{width:400px;
+     margin:auto;
+     height:250;
+     background:white;
+     padding:50px;
+     margin-top:250px;}
+
+.log input{display:block;
+           padding-right:20px !important;
+           width:100%;
+           font-size:20px;
+           margin-bottom:25px;
+           padding:18px;
+           background:#f2f2f2;
+           text-align:center;
+           border:none;  }
+
+.log span{color:rgb(179, 101, 101);
+          margin-left:20%} 
+
+.log a{ color:rgb(67, 165, 67);
+       text-decoration:none}
+
+.input{width:100%;
+       text-align:center !important;
+       background:#00b242 !important;
+       color:white}

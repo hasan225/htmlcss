@@ -1,0 +1,24 @@
+.pic{color:red;
+    font-size: 82;
+    padding:525;
+    width: 5000px;
+    height:400;
+    
+    background:url(https://www.teahub.io/photos/full/38-384350_soul-eater-evans-albarn-maka-soul-eater.png);
+    
+
+}
+
+h1{color:red;
+   padding:5px;
+   font-size:210}
+
+p{color:white;
+  padding:50px;
+  font-size:110px}
+
+div{border:25px solid black;
+   background:linear-gradient(green,blue,gold,orange,yellow,aqua,pink);
+width:6000}
+
+body{background:red}

@@ -1,0 +1,14 @@
+h1{color:brown}
+a{text-decoration:none}
+
+
+a:visited{color:rgb(243, 140, 140)}
+a:hover{color:teal}
+a:active{color:rgb(223, 235, 223)}
+a{color:rgb(109, 189, 5);
+  background:rgb(27, 27, 27)} 
+
+
+
+.list{
+    list-style:lower-alpha}

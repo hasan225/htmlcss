@@ -1,0 +1,23 @@
+div{color:red;
+    background:aqua;
+    width:80;
+    padding:10px;
+    margin:20px;
+    transition:width 2s}
+
+.div6:hover{width:500px;}
+
+.div1:hover{transition-timing-function:linear;
+            width:500px}
+
+.div2:hover{transition-timing-function:ease;
+             width:500px}
+
+.div3:hover{transition-timing-function:ease-in;
+             width:500px}
+
+.div4:hover{transition-timing-function:ease-out;
+            width:500px}
+
+.div5:hover{transition-timing-function:ease-in-out;
+            width:500px}

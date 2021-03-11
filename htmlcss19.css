@@ -1,0 +1,30 @@
+.div1{position:relative;
+    perspective:87px;
+    width:900px; }
+
+.div2{transform:rotatex(15deg);
+      transform-style:preserve-3d;}
+
+
+
+.div2{color:red;
+   background:pink;
+   font-size:30px;
+   font-family:cursive;
+   width:900px;
+   height:400px;
+   padding:62px;
+   text-align:center;
+   text-transform:capitalize;
+   margin:448px;}
+
+.text{position:absolute;
+      top:26%;
+      left:11%;
+      font-family:cursive;
+      font-size:185px;
+      color:rgb(0, 183, 255) ;
+      text-shadow:-21px -24px 15px brown;
+      text-align:center!important;
+
+      }

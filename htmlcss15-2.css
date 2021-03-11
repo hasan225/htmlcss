@@ -1,0 +1,22 @@
+.a{ padding:20px;
+   width:200px;
+   text-align:center;
+   background:green}
+
+
+.b{margin-left:48%;
+   padding:20px;
+   width:200px;
+   text-align:center;
+   background:red}
+
+
+.c{margin-left:95%;
+      padding:20px;
+      width:200px;
+      text-align:center;
+      background:tomato}
+
+h1{position:fixed;}
+
+.div2{margin-top:200px}

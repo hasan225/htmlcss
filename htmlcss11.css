@@ -1,0 +1,20 @@
+.none{display:none}
+
+.hidden{visibility:hidden}
+
+.first{color:white; background:red;
+       display:inline}
+
+.second{color:black;background:yellow;
+        display:inline}
+
+.wmw{width:3000;
+     background:pink}
+       
+.tit{background:black;color:red;
+     padding:10px;
+     margin:10px;}
+
+.wmw img{max-width:100%;
+        padding:10px;
+        margin:10px;}

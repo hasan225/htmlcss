@@ -1,0 +1,28 @@
+h1{font-family:monospace;
+    background:red;
+    color:white;
+    display:inline;
+    padding:10px;
+    margin-left:110px;
+    border:2px solid black}
+.salary{color:rgb(19, 40, 230);
+    border-collapse:collapse;
+    border-color:chartreuse;}
+
+.salary thead tr th {padding:20px;
+                    background:tomato;
+                    color:rgb(247, 216, 216);
+                    text-transform:uppercase;
+                    font-family:cursive}  
+
+.highest{background:black;
+        color:yellow}
+
+.salary tbody tr:first-child{color:white;background:blue}
+table tbody tr:nth-child(even){color:black;background:#ddd;font: size 20px;}
+table tbody tr:last-child{color:green;background:black}
+.salary tbody tr:nth-child(6){color:aqua;background:black}
+
+
+
+.trc{color:white;background:rgb(241, 70, 70)}

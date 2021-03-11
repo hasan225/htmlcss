@@ -1,0 +1,26 @@
+.a{background:red;
+   width:600px;
+   padding:20px;
+   }
+
+.b {background:tomato;
+    padding:20px;
+    width:600px;
+   
+    }
+
+.c{background:blue;
+   width:600px;
+   padding:20px;
+
+  }
+
+
+.align  {
+    width: 500px;
+         margin:auto;
+         display:flex;
+        }
+
+            
+     

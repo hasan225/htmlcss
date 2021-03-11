@@ -1,0 +1,9 @@
+.about{
+          background:linear-gradient(#b5f0f096,rgb(170 185 170 / 11%),#008031c4),url(images2/bg3.jpg);
+          background-repeat:no-repeat;
+          background-size:cover;
+          height:400px;
+          }
+
+.about h1{color:#696980bf;
+          font-family:cursive}

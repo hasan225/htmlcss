@@ -1,0 +1,22 @@
+div{width:2000}
+
+p{width:600}
+
+
+.a{color:red;background:black;
+    width:100px;
+    right:0%;
+    overflow:auto;
+    position:fixed;}
+
+
+.b{color:red;background:black;
+  position:absolute;
+  width:700;
+  bottom:0px}
+
+.c{color:red;background:black;
+ width:200px;
+   position:relative;}
+
+   

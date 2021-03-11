@@ -1,0 +1,41 @@
+a{text-decoration:none}
+
+a span{color:hsl(0, 100%, 51%);
+     visibility:hidden;
+     background:yellow;
+     width:210px;
+     height:20px;
+     display:block;
+     text-align:center;
+     border-radius:100px;
+     position:absolute;
+     left:40px;
+     bottom:45px }
+
+a span:before{content:"";
+              
+              border-left:10px solid transparent;
+              border-bottom:10px solid #6f7316;
+              position:absolute;
+              bottom:-5px;
+              top:13;
+              left:9px;
+              transform:rotate(45deg);
+              }
+
+
+a:hover span{visibility:visible}
+
+.custom{position:relative;
+      color:green;
+  background:chartreuse;
+   padding-bottom:5px;
+   padding-top:5px;
+   display:block;
+   width:100px;
+   height:20px;
+   text-align:center;
+   font-weight:bold;
+    border:2px solid rgb(153, 27, 27);
+   border-radius:10px;
+}
